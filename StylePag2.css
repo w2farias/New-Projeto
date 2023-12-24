@@ -5,12 +5,11 @@ header{
     border: 1px solid black;
     border-radius: 20px;
     top: 0;
-    background-color: #411120;
+    background-color: #0f2a63;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 body{
-    background-color: rgb(247, 203, 167);
+    background-color: rgb(143, 161, 245);
 }
-
