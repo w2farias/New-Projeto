@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(7, 2, 78);
+    background-color: rgb(2, 19, 73);
 }
 
 header{
@@ -8,7 +8,7 @@ header{
     border: 1px solid black;
     border-radius: 20px;
     top: 0;
-    background-color: #012b3f;
+    background-color: #014d70;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,4 +121,22 @@ cabeçalho{
 
 .item4:hover::before{
     width: 100%;
+}
+
+.t2{
+    color: white;
+    font-size: 120%;
+    font-family: sans-serif;
+    margin-left: 42%;
+    margin-right: 50%;
+    width: 20%;
+}
+
+.segt{
+    color: white;
+    font-size: 120%;
+    font-family: sans-serif;
+    margin-left: 42%;
+    margin-right: 50%;
+    width: 20%;
 }
