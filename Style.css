@@ -125,18 +125,23 @@ cabeçalho{
 
 .t2{
     color: white;
-    font-size: 120%;
+    width:fit-content;
+
+    font-size: 130%;
     font-family: sans-serif;
-    margin-left: 42%;
-    margin-right: 50%;
-    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+ 
 }
 
-.segt{
+
+
+.artigo{
     color: white;
-    font-size: 120%;
+    width: 30%;
+    font-size: 100%;
     font-family: sans-serif;
-    margin-left: 42%;
-    margin-right: 50%;
-    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
 }
