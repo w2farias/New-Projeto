@@ -28,16 +28,9 @@ cabeçalho{
 
 .list{
     
-    background-image: url('image.jpeg');
-    font-size: xx-large;
-   
-    height: 2px;
-    margin: 20px;
-    border: 1px solid black;
-    border-radius: 20px;
-    padding: 50px;
-   
-
+    width: 20%;
+    height: 20%;
+      
 }
 .bloco{
     width: 700px;
